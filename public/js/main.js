@@ -37,3 +37,4 @@ document.querySelectorAll("input")[2].addEventListener('click',()=>{
         }
     })
 })
+
